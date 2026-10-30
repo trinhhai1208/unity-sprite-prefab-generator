@@ -1,0 +1,19 @@
+{
+  "name": "com.haitndev.sprite-prefab-generator",
+  "version": "0.1.0",
+  "displayName": "Sprite Prefab Generator",
+  "description": "Tạo prefab 2D (SpriteRenderer + Animator) hàng loạt từ asset pack: dùng Animator Controller có sẵn, tự tạo animation từ sprite sheet đã cắt, và tạo prefab tĩnh cho sprite đơn.",
+  "unity": "2022.3",
+  "author": {
+    "name": "HaiTNDev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "2d",
+    "sprite",
+    "prefab",
+    "animation",
+    "spritesheet",
+    "editor"
+  ]
+}
